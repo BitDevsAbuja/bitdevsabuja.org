@@ -15,35 +15,40 @@ template = "post.html"
    - House Rules - the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 ---
 16:20pm - Address Encoding: Base58, Bech32, Bech32m
-   - [Mastering Bitcoin Ch04](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc)
+
+   - [Mastering Bitcoin Ch04](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04_keys.adoc)
    - [Pwuille, bech32 address format lecture](https://www.reddit.com/r/Bitcoin/comments/62fydd/pieter_wuille_lecture_on_new_bech32_address_format/)
    - [Transcripts on Segwit Addresses](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
    - [Bip 350, Applications of Bech32m](https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki)
 
 ---
+
 16:30pm - Bitcoin digital signature schemes:
+
    - [ECDSA - a gentle introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
    - [Bip 340, Schnorr Signatures](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki)
    - [Adam Gibson, How to design Schnorr Signatures](https://www.youtube.com/watch?v=wjACBRJDfxc)
    - [Rene Pickhardt, Schnorr Signatures for Bitcoin](https://www.youtube.com/watch?v=n5aompcR9W0)
 
 ---
+
 17:40pm - Refreshment Break, Chill and Chat
 
 ---
+
 17:55pm - Introduction to Fedimint Custody Protocol
    - [Fedimint primer](https://fedimint.org/docs/intro)
    - [Fedimint open source software](https://github.com/fedimint)
    - [Fedi! And other companies building on Fedimint](https://www.fedi.xyz/)
 
 ---
+
 18:35pm - Designing a Bitcoin/Lightning wallet/Introduction to Bitcoin design philosophy
    - [Bitcoin design](https://bitcoin.design/)
 
 ---
 #### News
 
-  - [NFTs on Bitcoin!](https://ordinals.com)
   - [Bitcoin Optech Newsletter Updates](https://bitcoinops.org/en/newsletters/2023/03/08/)
 
 ---
