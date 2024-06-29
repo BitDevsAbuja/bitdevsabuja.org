@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevsAbuja</title>
+      <link>https://bitdevsabuja.github.io/</link>
+      <description>BitDevsAbuja is a community in Abuja, Nigeria, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://bitdevsabuja.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Socratic Seminar #1</title>
+          <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsabuja.github.io/socratic-seminar-1/</link>
+          <guid>https://bitdevsabuja.github.io/socratic-seminar-1/</guid>
+          <description xml:base="https://bitdevsabuja.github.io/socratic-seminar-1/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;16:00pm - Welcome to BitDevsAbuja&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Announcements&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;We are excited to introduce our first &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a href=&quot;http:&#x2F;&#x2F;easepay.io&#x2F;&quot;&gt;Easepay&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hrf.org&#x2F;&quot;&gt;HRF&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitdevsnbo.org&#x2F;about&quot;&gt;What is BitDevs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;House Rules - the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;16:20pm - Address Encoding: Base58, Bech32, Bech32m&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinbook&#x2F;bitcoinbook&#x2F;blob&#x2F;develop&#x2F;ch04_keys.adoc&quot;&gt;Mastering Bitcoin Ch04&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Bitcoin&#x2F;comments&#x2F;62fydd&#x2F;pieter_wuille_lecture_on_new_bech32_address_format&#x2F;&quot;&gt;Pwuille, bech32 address format lecture&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;btctranscripts.com&#x2F;sf-bitcoin-meetup&#x2F;2017-03-29-new-address-type-for-segwit-addresses&#x2F;&quot;&gt;Transcripts on Segwit Addresses&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0350.mediawiki&quot;&gt;Bip 350, Applications of Bech32m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;16:30pm - Bitcoin digital signature schemes:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;andrea.corbellini.name&#x2F;2015&#x2F;05&#x2F;17&#x2F;elliptic-curve-cryptography-a-gentle-introduction&#x2F;&quot;&gt;ECDSA - a gentle introduction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0340.mediawiki&quot;&gt;Bip 340, Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wjACBRJDfxc&quot;&gt;Adam Gibson, How to design Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=n5aompcR9W0&quot;&gt;Rene Pickhardt, Schnorr Signatures for Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;17:40pm - Refreshment Break, Chill and Chat&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;17:55pm - Introduction to Fedimint Custody Protocol&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fedimint.org&#x2F;docs&#x2F;intro&quot;&gt;Fedimint primer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&quot;&gt;Fedimint open source software&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.fedi.xyz&#x2F;&quot;&gt;Fedi! And other companies building on Fedimint&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;18:35pm - Designing a Bitcoin&#x2F;Lightning wallet&#x2F;Introduction to Bitcoin design philosophy&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.design&#x2F;&quot;&gt;Bitcoin design&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;03&#x2F;08&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Miami&lt;&#x2F;a&gt; July. 5th&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent, 
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
