@@ -53,8 +53,9 @@ template = "post.html"
 
 ---
 #### Events
-  - [Bitcoin conferences](https://b.tc/conference/)
-  - [Africa Bitcoin Conference](https://afrobitcoin.org/)
+  - [Africa Bitcoin Conference](https://afrobitcoin.org/) December 9TH – 11TH, 2024
+  - [Other Bitcoin Conferences](https://b.tc/conference/)
+
 
 ---
 
