@@ -16,7 +16,7 @@ template = "post.html"
 ---
 16:20pm - Address Encoding: Base58, Bech32, Bech32m
 
-   - [Mastering Bitcoin Ch04](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04_keys.adoc)
+   - [Mastering Bitcoin Ch04](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc)
    - [Pwuille, bech32 address format lecture](https://www.reddit.com/r/Bitcoin/comments/62fydd/pieter_wuille_lecture_on_new_bech32_address_format/)
    - [Transcripts on Segwit Addresses](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
    - [Bip 350, Applications of Bech32m](https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki)
@@ -53,7 +53,7 @@ template = "post.html"
 
 ---
 #### Events
-  - [Bitcoin Miami](https://b.tc/conference/) July. 5th
+  - [Bitcoin Miami](https://b.tc/conference/)
 
 ---
 
