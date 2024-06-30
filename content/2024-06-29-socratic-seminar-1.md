@@ -53,7 +53,8 @@ template = "post.html"
 
 ---
 #### Events
-  - [Bitcoin Miami](https://b.tc/conference/)
+  - [Bitcoin conferences](https://b.tc/conference/)
+  - [Africa Bitcoin Conference](https://afrobitcoin.org/)
 
 ---
 
