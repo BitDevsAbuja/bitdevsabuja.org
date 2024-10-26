@@ -1,0 +1,74 @@
++++
+title = "Socratic Seminar #2"
+template = "post.html"
+[extra]
++++
+
+### Location
+
+The event is hosted at **Respetech** by Enigbe Ochekliye:
+
+22 Fairtrade center, Bambari Crescent, 
+Wuse, Abuja
+
+---
+[Map](https://www.google.com/maps/place/Fairtrade+Business+Complex/@9.0511381,7.4543869,17z/data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu)  
+
+### Agenda
+
+16:00pm - Announcements
+
+We are excited to introduce our third [Socratic Seminar](/about)! A special thank you to our sponsor [Easepay](http://easepay.io/) and [HRF](https://hrf.org/) for food and refreshments.
+
+## Reminders
+
+- We prefer no photos and no videos during the event
+- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Leave the meeting space as clean as you found it
+- Suggest topics for the next Socratic Seminar!  y creating an issue on out repo [BitDevs Repo](https://github.com/BitDevsAbuja/bitdevsabuja.org/issues) [Where to find topics?](/about/find-topics)
+
+
+16:20pm - Host Introduction and getting to know the audience
+
+---
+
+16:30pm - Inside Lightning: Chain Sourcing for LDK Nodes
+
+#### MC: Eni
+
+- **Brief overview of LN and LN Channels**
+- **Node responsibility:** Channel State Management and Chain Observation
+- **Responsibility segregation:** Channel Management, Chain and Channel Monitoring
+- **Info Aside:** Observer Pattern
+
+
+---
+
+17:10pm - Refreshment Break, Chill and Chat
+
+---
+17:30pm - Inside Lightning: Chain Sourcing for LDK Nodes (Continued)
+
+#### MC: Eni
+
+- **Chain Sourcing**
+    - The Listen Interface 
+    - The Confirm/Filter Interface Combination
+- **Challenges**
+- **Conclusion**
+
+---
+#### News
+
+  - [Bitcoin Optech Newsletter Updates](https://bitcoinops.org/en/newsletters/2024/10/25/)
+  - Remember to contribute[Good First Issue](https://bitcoindevs.xyz/good-first-issues)
+  - Saving Satoshi featured at TabConf [Saving Satoshi](https://savingsatoshi.com/)
+  - Warnet featured at TabConf
+
+---
+#### Events
+  - [Btrust Africa Bitcoin Conference Dev Day, December 8th, 2024](https://afrobitcoin.org/btrust-developer-day/)
+  - [Africa Bitcoin Conference, December 9TH – 11TH, 2024 ](https://afrobitcoin.org/)
+  - [Bitcoin Conferences](https://b.tc/conference/)
+
+---
