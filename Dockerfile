@@ -7,6 +7,10 @@ RUN apk add --no-cache zola
 # Set the working directory
 WORKDIR /site
 
+# Add a cache-busting argument to force a rebuild when files are changed
+ARG CACHE_BUST=$(date +%s)
+ENV CACHE_BUST=$CACHE_BUST
+
 # Copy the website files
 COPY . .
 
