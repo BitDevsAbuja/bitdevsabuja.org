@@ -25,7 +25,7 @@ We are excited to introduce our fourt [Socratic Seminar](/about)! A special than
 - We prefer no photos and no videos during the event
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar!  y creating an issue on out repo [BitDevs Repo](https://github.com/BitDevsAbuja/bitdevsabuja.org/issues) [Where to find topics?](/about/find-topics)
+- Suggest topics for the next Socratic Seminar!  by creating an issue on out repo [BitDevs Repo](https://github.com/BitDevsAbuja/bitdevsabuja.org/issues) [Where to find topics?](/about/find-topics)
 
 ---
 
