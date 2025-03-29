@@ -55,7 +55,7 @@ MC: nully0x
 
 MC: Eni
 
-- Channel splicing [https://lightningdevkit.org/blog/announcing-vss/](https://lightningdevkit.org/blog/announcing-vss/)
+- Channel splicing [https://github.com/lightning/bolts/pull/1160](https://github.com/lightning/bolts/pull/1160)
 
 ---
 
