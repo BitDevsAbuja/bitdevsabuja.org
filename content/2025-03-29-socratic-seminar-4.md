@@ -29,7 +29,7 @@ We are excited to introduce our fourt [Socratic Seminar](/about)! A special than
 
 ---
 
-### Bitcoin
+### In Bitcoin
 
 ---
 
@@ -51,11 +51,11 @@ MC: nully0x
 
 ---
 
-### Inside Lightning: Chain Sourcing for LDK Nodes
+### Inside Lightning
 
 MC: Eni
 
-- Channel splicing
+- Channel splicing [https://lightningdevkit.org/blog/announcing-vss/](https://lightningdevkit.org/blog/announcing-vss/)
 
 ---
 
@@ -67,7 +67,7 @@ MC: Eni
 
 MC: nully0x
 
-- (Intro to payjoin)[https://payjoin.org]
+- (Payjoin 101)[https://payjoin.org]
 
 ---
 
