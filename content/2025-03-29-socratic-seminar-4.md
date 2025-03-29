@@ -67,7 +67,7 @@ MC: Eni
 
 MC: nully0x
 
-- (Payjoin 101)[https://payjoin.org]
+- [Payjoin 101](https://payjoin.org)
 
 ---
 
