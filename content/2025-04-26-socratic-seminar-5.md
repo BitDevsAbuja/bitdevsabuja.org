@@ -18,7 +18,7 @@ Wuse, Abuja
 
 ### Announcements
 
-We are excited to introduce our fourt [Socratic Seminar](/about)! A special thank you to our sponsor [BTrust](https://www.btrust.tech/) for food and refreshments and special thanks to [Mavapay](https://mavapay.co).
+We are excited to introduce our fifth [Socratic Seminar](/about)! A special thank you to our sponsor [BTrust](https://www.btrust.tech/) for food and refreshments and special thanks to [Mavapay](https://mavapay.co).
 
 ### Reminders
 
@@ -62,7 +62,7 @@ MC: nully0x
 
 - Introducing Mavapay API for Business
 
-### In Financialization of Bitcoin
+### In Financialization of BitcoinBitcoin
 
 ---
 
