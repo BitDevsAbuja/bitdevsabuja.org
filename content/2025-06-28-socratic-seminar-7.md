@@ -33,7 +33,7 @@ We are excited to introduce our fifth [Socratic Seminar](/about)! A special than
 
 ---
 
-MC: Tuendon
+MC: Tuedon
 
 - [Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
 - [policy: uncap datacarrier by default #32406 merged into Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/32406)
