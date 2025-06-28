@@ -1,5 +1,5 @@
 +++
-title = "Socratic Seminar #6"
+title = "Socratic Seminar #7"
 template = "post.html"
 [extra]
 +++
