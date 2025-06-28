@@ -51,7 +51,7 @@ MC: Tuedon
 
 ### Other Bitcoin Tech
 
-MC: Adamu
+MC: Shytypes
 
 - NIP-47: Protocol for connecting Nostr clients to remote Lightning wallets.
 - Enables secure wallet access via end-to-end encrypted Nostr DMs.
@@ -74,6 +74,8 @@ MC: Adamu
 
 ### News
 
+MC: Tuedon
+
   - [Bitcoin Optech Newsletter Updates](https://bitcoinops.org/en/newsletters/2024/10/25/)
   - Remember to contribute [Good First Issue](https://bitcoindevs.xyz/good-first-issues)
 
@@ -81,7 +83,7 @@ MC: Adamu
 
 ### Events
 
-MC: nully0x
+MC: Tuedon
 
   - [Africa Bitcoin Conference, December 3TH – 5TH, 2025 ](https://afrobitcoin.org/)
   - [Bitcoin Conferences](https://b.tc/conference/)
