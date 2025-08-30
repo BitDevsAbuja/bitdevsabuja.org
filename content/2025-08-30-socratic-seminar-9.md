@@ -73,7 +73,7 @@ MC: nully0x
 
   - [Bitcoin Optech Newsletter Updates](https://bitcoinops.org/en/newsletters/2024/10/25/)
   - Remember to contribute [Good First Issue](https://bitcoindevs.xyz/good-first-issues)
-  - Make an headway with [Btrust Grant]()
+  - Make an headway with [Btrust Grant](https://www.btrust.tech)
   - Catch up with weekly happenings in Bitcoin ecosystem via [tldr](https://tldr.bitcoinsearch.xyz/)
 
 ---
