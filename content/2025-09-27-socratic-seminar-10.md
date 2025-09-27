@@ -16,9 +16,10 @@ Wuse, Abuja
 
 ### Agenda
 
+
 ### Announcements
 
-We are excited to introduce our seventh [Socratic Seminar](/about)! A special thank you to our sponsor [BTrust](https://www.btrust.tech/) for food, refreshments, and hall space
+We are excited to introduce our tenth [Socratic Seminar](/about)! A special thank you to our sponsor [BTrust](https://www.btrust.tech/) for food, refreshments, and hall space
 
 ### Reminders
 
