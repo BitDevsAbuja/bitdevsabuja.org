@@ -7,4 +7,4 @@ Special thanks to to our sponsors who's donations help pay for venue rental, piz
 <br>
 <br>
 
-- Easepay - [easepay.io](https://easepay.io)
+- Btrust - [https://www.btrust.tech/](https://www.btrust.tech/)
