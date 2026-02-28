@@ -6,8 +6,6 @@ template = "post.html"
 
 ### Location
 
-The event is hosted at **Respetech** by nully0x:
-
 Block B, AUJ Complex, CBD Abuja
 
 [Map](https://maps.app.goo.gl/eP2YgGgxkhDTn5Ts8)  
