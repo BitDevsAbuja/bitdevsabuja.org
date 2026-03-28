@@ -16,7 +16,7 @@ Block B, AUJ Complex, CBD Abuja
 
 ### Announcements
 
-We are excited to introduce our thirteenth [Socratic Seminar](/about)! A special thank you to our sponsor [BTrust](https://www.btrust.tech/) for food, refreshments, and [Bitnob](https://bitnob.com) for hosting the meetup. 
+We are excited to introduce our fourtheenth [Socratic Seminar](/about)! A special thank you to our sponsor [BTrust](https://www.btrust.tech/) for food, refreshments, and [Bitnob](https://bitnob.com) for hosting the meetup. 
 
 ### Reminders
 
