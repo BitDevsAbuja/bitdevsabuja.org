@@ -4,7 +4,7 @@ description = "All about this site"
 +++
 
 BitDevsAbuja is inspired by the original [BitDevs NYC](https://bitdevs.org) to 
-help grow a community in Nairobi area of those interested in discussing 
+help grow a community in Abuja of those interested in discussing 
 and participating in the research and development of Bitcoin and related 
 protocols and software. You can be well versed with or new to the topics, all are welcome. 
 Be advised: discussion will occassionally be technical.
