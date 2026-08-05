@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevsAbuja</title>
+      <link>/</link>
+      <description>BitDevsAbuja is a community in Abuja, Nigeria, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Socratic Seminar #15</title>
+          <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-15/</link>
+          <guid>/socratic-seminar-15/</guid>
+          <description xml:base="/socratic-seminar-15/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Block B, AUJ Complex, CBD Abuja&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;eP2YgGgxkhDTn5Ts8&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our fifteenth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food, refreshments, and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnob.com&quot;&gt;Bitnob&lt;&#x2F;a&gt; for hosting the meetup.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! by creating an issue on our repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;decoding-bitcoin-transactions&quot;&gt;Decoding Bitcoin Transactions&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;strong&gt;Brief&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the structure of a raw Bitcoin transaction&lt;&#x2F;li&gt;
+&lt;li&gt;Decode a raw Bitcoin transaction manually and with available tools&lt;&#x2F;li&gt;
+&lt;li&gt;Identify and explain the purpose of each transaction field&lt;&#x2F;li&gt;
+&lt;li&gt;Understand transaction inputs, outputs, scripts, witness data, locktime, and version fields&lt;&#x2F;li&gt;
+&lt;li&gt;Read transaction data directly from a block explorer or node RPC output&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Bonus&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create and broadcast a Bitcoin transaction during the session&lt;&#x2F;li&gt;
+&lt;li&gt;Decode the transaction live and inspect every field together&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lightning Protocol Specification&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;book-club-review&quot;&gt;Book Club Review&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Book Club Monthly Review&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;where-to-learn&quot;&gt;Where to Learn&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;learnmeabitcoin.com&#x2F;technical&#x2F;transaction&#x2F;&quot;&gt;Learn Me a Bitcoin - Transactions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detailed breakdown of every transaction component&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinbook&#x2F;bitcoinbook&quot;&gt;Mastering Bitcoin (Open Edition)&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapters covering transaction construction, scripts, and serialization&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;developer.bitcoin.org&#x2F;reference&#x2F;transactions.html&quot;&gt;Bitcoin Developer Documentation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reference guide to transaction fields and formats&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;Mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore and inspect real Bitcoin transactions&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=bBC-nXj3Ng4&quot;&gt;But how does bitcoin actually work? (3Blue1Brown)&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual explanation of cryptographic primitives, hashing, and proof-of-work&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pathways.btrust.tech&#x2F;&quot;&gt;Btrust Builders Pathways&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2026&#x2F;02&#x2F;27&#x2F;&quot;&gt;Bitcoin Optech Newsletter #394&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Make headway with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&quot;&gt;Btrust Grant&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Catch up with weekly happenings in the Bitcoin ecosystem via &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;&quot;&gt;tldr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;LARP Program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;btcplusplus.dev&#x2F;conf&#x2F;nairobi&quot;&gt;bitcoin++ Open Source Edition&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindakar.com&#x2F;&quot;&gt;Bitcoin Dakar 2026&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #14</title>
+          <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-14/</link>
+          <guid>/socratic-seminar-14/</guid>
+          <description xml:base="/socratic-seminar-14/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Block B, AUJ Complex, CBD Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;eP2YgGgxkhDTn5Ts8&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our fourtheenth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food, refreshments, and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnob.com&quot;&gt;Bitnob&lt;&#x2F;a&gt; for hosting the meetup.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! by creating an issue on our repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Decoding Bitcoin Transaction&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ligthning Protocol Specification&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;book-club-review&quot;&gt;Book Club Review&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Book Club Monthly Review&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;where-to-learn&quot;&gt;Where to learn&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=bBC-nXj3Ng4&quot;&gt;But how does bitcoin actually work? (3Blue1Brown)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual explanation of cryptographic primitives, hashing, and proof-of-work&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;bitcoin.pdf&quot;&gt;Bitcoin Whitepaper&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;The 9-page paper that started it all — worth revisiting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;learnmeabitcoin.com&#x2F;&quot;&gt;Learn Me a Bitcoin&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Interactive guide covering transactions, blocks, and the UTXO model&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinbook&#x2F;bitcoinbook&quot;&gt;Mastering Bitcoin (Open Edition)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapters 1-4 for foundational concepts&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pathways.btrust.tech&#x2F;&quot;&gt;Btrust Builders Pathways&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2026&#x2F;02&#x2F;27&#x2F;&quot;&gt;Bitcoin Optech Newsletter #394&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Make an headway with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&quot;&gt;Btrust Grant&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Catch up with weekly happenings in Bitcoin ecosystem via &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;&quot;&gt;tldr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;LARP Program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;btcplusplus.dev&#x2F;conf&#x2F;nairobi&quot;&gt;bitcoin++ open source edition&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindakar.com&#x2F;&quot;&gt;Bitcoin Dakar 2026&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #13</title>
+          <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-13/</link>
+          <guid>/socratic-seminar-13/</guid>
+          <description xml:base="/socratic-seminar-13/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Block B, AUJ Complex, CBD Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;eP2YgGgxkhDTn5Ts8&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our thirteenth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food, refreshments, and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnob.com&quot;&gt;Bitnob&lt;&#x2F;a&gt; for hosting the meetup.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! by creating an issue on our repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2026&#x2F;02&#x2F;27&#x2F;&quot;&gt;BIP for Output Script Descriptor Annotations&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Discussing the latest proposal to attach metadata to descriptors to improve scanning efficiency for silent payments.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;op_cat&#x2F;&quot;&gt;The Great Script Restoration&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Updates on the progress of &lt;code&gt;OP_CAT&lt;&#x2F;code&gt; and its implications for covenants on Bitcoin.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Orion&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcontract&#x2F;immortan&quot;&gt;The IMMORTAN LIBRARY and Hosted Lightning Channels&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Presenter: Orion&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;IMMORTAN is a mobile-focused Lightning protocol stack for designing lightweight nodes.&lt;&#x2F;li&gt;
+&lt;li&gt;Discussion on Hosted Channels as a custodial solution for anonymous and cost-effective onboarding in local Bitcoin economies&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;book-club-review&quot;&gt;Book Club Review&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Book and Research club conversation updates&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;where-to-learn&quot;&gt;Where to learn&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=bBC-nXj3Ng4&quot;&gt;But how does bitcoin actually work? (3Blue1Brown)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual explanation of cryptographic primitives, hashing, and proof-of-work&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;bitcoin.pdf&quot;&gt;Bitcoin Whitepaper&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;The 9-page paper that started it all — worth revisiting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;learnmeabitcoin.com&#x2F;&quot;&gt;Learn Me a Bitcoin&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Interactive guide covering transactions, blocks, and the UTXO model&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinbook&#x2F;bitcoinbook&quot;&gt;Mastering Bitcoin (Open Edition)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapters 1-4 for foundational concepts&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pathways.btrust.tech&#x2F;&quot;&gt;Btrust Builders Pathways&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2026&#x2F;02&#x2F;27&#x2F;&quot;&gt;Bitcoin Optech Newsletter #394&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Make an headway with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&quot;&gt;Btrust Grant&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Catch up with weekly happenings in Bitcoin ecosystem via &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;&quot;&gt;tldr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;LARP Program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;btcplusplus.dev&#x2F;conf&#x2F;nairobi&quot;&gt;bitcoin++ open source edition&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindakar.com&#x2F;&quot;&gt;Bitcoin Dakar 2026&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #12</title>
+          <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-12/</link>
+          <guid>/socratic-seminar-12/</guid>
+          <description xml:base="/socratic-seminar-12/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;Block B, AUJ Complex, CBD Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;eP2YgGgxkhDTn5Ts8&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our tenth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food, refreshments, and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnob.com&quot;&gt;Bitnob&lt;&#x2F;a&gt; for hosting the meetup.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcointalk.org&#x2F;index.php?topic=5572483.msg66331254#msg66331254&quot;&gt;To soft fork or not: BIP-110 Soft Fork Started &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility&#x2F;2179&quot;&gt;Ark as a Channel Factory: Compressed Liquidity Management for Improved Payment Feasibility&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;book-club-review&quot;&gt;Book Club Review&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Book and Research club conversation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;where-to-learn&quot;&gt;Where to learn&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=bBC-nXj3Ng4&quot;&gt;But how does bitcoin actually work? (3Blue1Brown)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual explanation of cryptographic primitives, hashing, and proof-of-work&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;bitcoin.pdf&quot;&gt;Bitcoin Whitepaper&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;The 9-page paper that started it all — worth revisiting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;learnmeabitcoin.com&#x2F;&quot;&gt;Learn Me a Bitcoin&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Interactive guide covering transactions, blocks, and the UTXO model&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinbook&#x2F;bitcoinbook&quot;&gt;Mastering Bitcoin (Open Edition)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapters 1-4 for foundational concepts&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pathways.btrust.tech&#x2F;&quot;&gt;Btrust Builders Pathways&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Make an headway with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&quot;&gt;Btrust Grant&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Catch up with weekly happenings in Bitcoin ecosystem via &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;&quot;&gt;tldr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;LARP Program&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;btcplusplus.dev&#x2F;conf&#x2F;nairobi&quot;&gt;bitcoin++ open source edition&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #11</title>
+          <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-11/</link>
+          <guid>/socratic-seminar-11/</guid>
+          <description xml:base="/socratic-seminar-11/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our tenth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food, refreshments, and hall space&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;&quot;&gt;How to Compile and Test Bitcoin Core v30.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;summary&#x2F;bitcoin-dev&#x2F;Oct_2025&#x2F;m8d5c81770baea7b9c3c6b5fcc5f6c6665a3328a0_Public-disclosure-of-4-Bitcoin-Core-security-advisories&quot;&gt;Public disclosure of 4 Bitcoin Core security advisories&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Extheoisah&#x2F;nodegaze&quot;&gt;Exploring the events in your node: A workshop on nodegaze&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;book-club-review&quot;&gt;Book Club Review&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rounding up Book Club for the year&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Make an headway with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&quot;&gt;Btrust Grant&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Catch up with weekly happenings in Bitcoin ecosystem via &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;&quot;&gt;tldr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #10</title>
+          <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-10/</link>
+          <guid>/socratic-seminar-10/</guid>
+          <description xml:base="/socratic-seminar-10/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our tenth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food, refreshments, and hall space&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;30.0-Release-Candidate-Testing-Guide&quot;&gt;Testing Guide: Bitcoin Core 30.0 Release Candidate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;learnmeabitcoin.com&#x2F;beginners&#x2F;guide&#x2F;segwit&#x2F;&quot;&gt;SegWit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-dev-project&#x2F;warnet-demo-project&quot;&gt;Getting Started with Warnet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;papa-swap&quot;&gt;Alternative Submarine Swap Proof of Concept&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;vercel.com&#x2F;blog&#x2F;introducing-x402-mcp-open-protocol-payments-for-mcp-tools&quot;&gt;x402 MCP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;open.substack.com&#x2F;pub&#x2F;spiralbtc&#x2F;p&#x2F;lexe-uses-ldk-to-run-self-custodial?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=1icuw7&quot;&gt;Lexe wallet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;book-club-review&quot;&gt;Book Club Review&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conversations around monthly technical book readings&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Make an headway with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&quot;&gt;Btrust Grant&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Catch up with weekly happenings in Bitcoin ecosystem via &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;&quot;&gt;tldr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #9</title>
+          <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-9/</link>
+          <guid>/socratic-seminar-9/</guid>
+          <description xml:base="/socratic-seminar-9/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our seventh &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31802&quot;&gt;Add bitcoin-{node,gui} to release binaries for IPC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;changing-the-minimum-relay-feerate&#x2F;1886&quot;&gt;Changing the minimum relay feerate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;sharing-block-templates&#x2F;1906&quot;&gt; Peer block template sharing to mitigate problems with divergent mempool policies&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;qubic-attack-on-monero&#x2F;1920&quot;&gt;Qubic attack on Monero&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;W1lxBraKG_E&quot;&gt;[BIP Proposal] Utreexo Nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1923&quot;&gt;BIP draft: BIPs for Utreexo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;hmichellerose&#x2F;status&#x2F;1949905710663561551?t=ajXWwtTwnu9XlJTLzw1SnA&amp;amp;s=19&quot;&gt;L402 token&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ArkLabsHQ&#x2F;status&#x2F;1955617205967782203?t=1MV1pvXYGrI9jXKHUB8iaA&amp;amp;s=19&quot;&gt;Ark Labs Experiment&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;Core_LN&#x2F;status&#x2F;1957994494021804420?t=jtmfvz5ey-GcdoeimU0dOA&amp;amp;s=19&quot;&gt;Core Lightning v25.09rc1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;HeinenCurtis&#x2F;status&#x2F;1955097973186236673&quot;&gt;Integrate Bitcoin into Everything&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;book-club-review&quot;&gt;Book Club Review&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conversations around monthly technical book readings&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Make an headway with &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&quot;&gt;Btrust Grant&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Catch up with weekly happenings in Bitcoin ecosystem via &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tldr.bitcoinsearch.xyz&#x2F;&quot;&gt;tldr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #8</title>
+          <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-8/</link>
+          <guid>/socratic-seminar-8/</guid>
+          <description xml:base="/socratic-seminar-8/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by Teudon:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our seventh &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;proof-of-work-based-signet-faucet&#x2F;937&quot;&gt;Proof-of-work based signet faucet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;witnessless-sync-for-pruned-nodes&#x2F;1742&quot;&gt;Witnessless Sync for Pruned Nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bip360.org&quot;&gt;BIP 360: Pay to Quantum Resistant Hash&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;rot13maxi&#x2F;status&#x2F;1946735932394160490&quot;&gt;Bitcoin Quantum Summit recap&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-lightning&quot;&gt;In Lightning&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;okjodom.github.io&#x2F;lngal&#x2F;&quot;&gt;Lighnting Gallery&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;voltage_cloud&#x2F;status&#x2F;1937863065430614084?t=hQz4nfQdu-v9q6Mscs_r6g&amp;amp;s=19&quot;&gt;Lightning-native payments on the Blockware Marketplace&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clinkme.dev&#x2F;&quot;&gt;CLINK protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;platform-for-technical-book-club&quot;&gt;Platform for Technical Book Club&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss plans for upcoming techincal bookclub.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #7</title>
+          <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-7/</link>
+          <guid>/socratic-seminar-7/</guid>
+          <description xml:base="/socratic-seminar-7/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our seventh &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2025&#x2F;06&#x2F;06&#x2F;relay-statement&#x2F;&quot;&gt;Bitcoin Core development and transaction relay policy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32406&quot;&gt;policy: uncap datacarrier by default #32406 merged into Bitcoin Core&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32406#issuecomment-2955614286&quot;&gt;Glozow explanation of the merge&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;bmV1QwYEN4k&quot;&gt;Censorship Resistant Transaction Relay - Taking out the garbage(man)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;43yjt8MXMvo&quot;&gt;The case for privatizing Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;jack&#x2F;status&#x2F;1927387517113778606&quot;&gt;Seedless is safer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitscriptapp&#x2F;status&#x2F;1929967063147135181?t=ieqW28cwcnzBZ1M_hLlu5w&amp;amp;s=19&quot;&gt;BitScript&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;other-bitcoin-tech&quot;&gt;Other Bitcoin Tech&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Shytypes&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;NIP-47: Protocol for connecting Nostr clients to remote Lightning wallets.&lt;&#x2F;li&gt;
+&lt;li&gt;Enables secure wallet access via end-to-end encrypted Nostr DMs.&lt;&#x2F;li&gt;
+&lt;li&gt;Roles:
+&lt;ul&gt;
+&lt;li&gt;Client: requests wallet actions.&lt;&#x2F;li&gt;
+&lt;li&gt;Wallet Service: API server.&lt;&#x2F;li&gt;
+&lt;li&gt;User: links wallet.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Event Kinds:
+&lt;ul&gt;
+&lt;li&gt;13194: Info&lt;&#x2F;li&gt;
+&lt;li&gt;23194: Request&lt;&#x2F;li&gt;
+&lt;li&gt;23195: Response&lt;&#x2F;li&gt;
+&lt;li&gt;23196: Notification&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Connection: via URI (includes wallet pubkey, relay, secret).&lt;&#x2F;li&gt;
+&lt;li&gt;Commands: pay_invoice, make_invoice, get_balance, etc.&lt;&#x2F;li&gt;
+&lt;li&gt;Notifications: payment_received, payment_sent.&lt;&#x2F;li&gt;
+&lt;li&gt;Security: one-time keys per session, improves privacy.&lt;&#x2F;li&gt;
+&lt;li&gt;Use Cases: works for custodial&#x2F;non-custodial wallets on any platform.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Tuedon&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #6</title>
+          <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-6/</link>
+          <guid>/socratic-seminar-6/</guid>
+          <description xml:base="/socratic-seminar-6/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our fifth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ChaincodeLabs&#x2F;status&#x2F;1927191285208617046&quot;&gt;Chaincode Labs - Bitcoin and Quantum Computing Report&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;chaincode.com&#x2F;bitcoin-post-quantum.pdf&quot;&gt;Bitcoin and Quantum Computing:Current Status and Future Directions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitcoincoreorg&#x2F;status&#x2F;1917591314020913555?t=Y7DKmaoHT6p1AufS2hCXrQ&amp;amp;s=19&quot;&gt;Public disclosure of one vulnerability affecting Bitcoin Core &amp;lt;29.0&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2025&#x2F;04&#x2F;28&#x2F;disclose-cve-2024-52919&#x2F;&quot;&gt;CVE-2024-52919 - Remote crash due to addr message spam (part 2)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32359&quot;&gt;OP _RETURN&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;antoinep.com&#x2F;posts&#x2F;relay_policy_drama&#x2F;&quot;&gt;Antoine Poinsot - Relay Policy and OP_RETURN&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;stephanlivera&#x2F;status&#x2F;1923712089966903762&quot;&gt;Bitcoin Core OP RETURN and spam explained by Antoine Poinsot&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-return-limits-pros-and-cons&#x2F;1645&quot;&gt;OP_RETURN limits: Pros and Cons&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;behind-the-op-return-drama&#x2F;1650&quot;&gt;Behind the OP_RETURN Drama&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Bitcoin&#x2F;comments&#x2F;1kl56u9&#x2F;comment&#x2F;mrzr80c&#x2F;?share_id=T2n9QHc2QHwBL7kK4DqE2&amp;amp;utm_content=2&amp;amp;utm_medium=android_app&amp;amp;utm_name=androidcss&amp;amp;utm_source=share&amp;amp;utm_term=1&quot;&gt;Greg Maxwell post on Reddit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;lorenzolfm&#x2F;status&#x2F;1925572261131554997&quot;&gt;Cashu token in a OP_RETURN.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;0xB10C&#x2F;status&#x2F;1923000420542317012&quot;&gt;More than 42 BTC are now forever lost in provably unspendable OP_RETURN outputs.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;the-spam-problem-of-bitcoin-and-unpermissioned-broadcast-networks-in-general&#x2F;1692&quot;&gt;The Spam problem of Bitcoin and Unpermissioned Broadcast Networks in general&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Lpy4Waz07cg&quot;&gt;Proposal to solve the spam war: configurable data blob relay policy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;dust-expiry-clean-the-utxo-set-from-spam&#x2F;1707&#x2F;3?u=robinlinus&quot;&gt;Dust Expiry: Clean the UTXO set from spam&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;NicolasDorier&#x2F;status&#x2F;1919992184969035874?t=sTK1R7_KG0c3VksLFSjxsw&amp;amp;s=19&quot;&gt;UTXO Set Size&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;bitcoin-core-tech&quot;&gt;Bitcoin Core Tech&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A brief introduction to a LND node and it works.&lt;&#x2F;li&gt;
+&lt;li&gt;How routing works between LND nodes.&lt;&#x2F;li&gt;
+&lt;li&gt;Introduction to gRPC and how it works.&lt;&#x2F;li&gt;
+&lt;li&gt;Realtime birectional communication using gRPC.&lt;&#x2F;li&gt;
+&lt;li&gt;gRPC vs HTTP&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;other-bitcoin-tech&quot;&gt;Other Bitcoin Tech&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Adamu&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nostr 101&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #5</title>
+          <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-5/</link>
+          <guid>/socratic-seminar-5/</guid>
+          <description xml:base="/socratic-seminar-5/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our fifth &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food and refreshments and special thanks to &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mavapay.co&quot;&gt;Mavapay&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitcoincoreorg&#x2F;status&#x2F;1912086604971192690&quot;&gt;Bitcoin Core v29.0 release announcement&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;29.0&#x2F;&quot;&gt;Bitcoin Core v29.0 release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitschmidty&#x2F;status&#x2F;1909651431386128858&quot;&gt;Which way, quantum Bitcoiner&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;conduition.io&#x2F;cryptography&#x2F;quantum-hbs&#x2F;&quot;&gt;Hash-Based Signature Schemes for Post-Quantum Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;andurobtc&#x2F;status&#x2F;1912909223131783488&quot;&gt;Quantum Computing Group Offers 1 BTC to Whoever Breaks Bitcoin&#x27;s Cryptographic Key&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;SomsenRuben&#x2F;status&#x2F;1907566218640269378?t=cbpQGCoBp0j1CYa-HcatnA&amp;amp;s=19&quot;&gt;Bitcoindev mailing list update&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;2d9c172cddd6eaf2b1dedea66595fb33fa987fef&#x2F;bip-XXXX.mediawiki&quot;&gt;BIP 353 - DNS Payment Instructions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1909404850061824036&quot;&gt;Overpaid Transaction by 96642x 💀&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1911572337436336341&quot;&gt;Pay To Anchor outputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;swiftsync-speeding-up-ibd-with-pre-generated-hints-poc&#x2F;1562&quot;&gt;SwiftSync – Speeding up IBD with pre-generated hints (PoC)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;RubenSomsen&#x2F;a61a37d14182ccd78760e477c78133cd&quot;&gt;SwiftSync&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mailing-list.bitcoindevs.xyz&#x2F;bitcoindev&#x2F;d0044f9c-d974-43ca-9891-64bb60a90f1f@gmail.com&#x2F;&quot;&gt;Educational and experimental-based secp256k1 implementation&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;secp256k1lab&#x2F;secp256k1lab&quot;&gt;secp256k1lab&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;lianabitcoin&#x2F;status&#x2F;1909573460910649832&quot;&gt;The 68-bit Bitcoin puzzle has been cracked&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;other-bitcoin-tech&quot;&gt;Other Bitcoin Tech&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducing Mavapay API for Business&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;in-financialization-of-bitcoinbitcoin&quot;&gt;In Financialization of BitcoinBitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;xxi.money&#x2F;&quot;&gt;Twenty One Bitcoin&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;jackmallers&#x2F;status&#x2F;1915399337913290867&quot;&gt;announcement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.strategy.com&#x2F;&quot;&gt;Strategy&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.strategysoftware.com&#x2F;world25&#x2F;bitcoin-for-corporations&quot;&gt;Bitcoin for Corporations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;What else is happening?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;AfroBitcoinOrg&#x2F;status&#x2F;1909528464102670437?t=Gfl82nTPFFFORUFlBO2fAw&amp;amp;s=19&quot;&gt;Africa Bitcoin Day - May 27, 2025&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #4</title>
+          <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-4/</link>
+          <guid>/socratic-seminar-4/</guid>
+          <description xml:base="/socratic-seminar-4/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;map&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our fourt &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;BTrust&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  by creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;in-bitcoin&quot;&gt;In Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-core-29-0-release-candidate-is-available&#x2F;1536&quot;&gt;Bitcoin Core 29.0 release candidate is available&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;32052&quot;&gt;Bitcoin Core v29 Testing&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;29.0-Release-Candidate-Testing-Guide&quot;&gt;29.0 Release Candidate Testing Guide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;31029&quot;&gt;Release Schedule for v29&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;lifecycle&#x2F;&quot;&gt;Bitcoin Core Software Life Cycle&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mailing-list.bitcoindevs.xyz&#x2F;bitcoindev&#x2F;9FAA7EEC-BD22-491E-B21B-732AEA15F556@sprovoost.nl&#x2F;&quot;&gt;Drop support for Testnet3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;darosior&#x2F;status&#x2F;1904947392744485062&quot;&gt;Consensus Cleanup BIP draft announcment&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1800&quot;&gt;Consensus Cleanup BIP draft&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-node-p2p-traffic-analysis&#x2F;1490&quot;&gt;Bitcoin node P2P traffic analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;against-quantum-recovery-of-bitcoin&#x2F;&quot;&gt;Against Allowing Quantum Recovery of Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;http:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1899994909572292812&quot;&gt;Someone just moved 150 BTC of old P2PK coinbase outputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;2ndbtc&#x2F;status&#x2F;1902400806659514562&quot;&gt;Ark protocol on Signet&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.second.tech&#x2F;try-ark-on-signet&#x2F;&quot;&gt;Try Ark on signet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;inside-lightning&quot;&gt;Inside Lightning&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: Eni&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Channel splicing &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1160&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1160&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;refreshment-break-chill-and-chat&quot;&gt;Refreshment Break, Chill and Chat&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;other-bitcoin-tech&quot;&gt;Other Bitcoin Tech&lt;&#x2F;h3&gt;
+&lt;p&gt;MC: nully0x&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;payjoin.org&quot;&gt;Payjoin 101&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;news&quot;&gt;News&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;btrust-developer-day&#x2F;&quot;&gt;Abuja Bitcoin Hangout, April 12th, 2025&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 3TH – 5TH, 2025 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #3</title>
+          <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-3/</link>
+          <guid>/socratic-seminar-3/</guid>
+          <description xml:base="/socratic-seminar-3/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by Enigbe Ochekliye:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;16:00pm - Announcements&lt;&#x2F;p&gt;
+&lt;p&gt;We are excited to introduce our third &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;http:&#x2F;&#x2F;easepay.io&#x2F;&quot;&gt;Easepay&lt;&#x2F;a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hrf.org&#x2F;&quot;&gt;HRF&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar!  y creating an issue on out repo &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitDevsAbuja&#x2F;bitdevsabuja.org&#x2F;issues&quot;&gt;BitDevs Repo&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;16:20pm - Host Introduction and getting to know the audience&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;16:30pm - Inside Lightning: Chain Sourcing for LDK Nodes&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;mc-eni&quot;&gt;MC: Eni&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Brief overview of LN and LN Channels&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Node responsibility:&lt;&#x2F;strong&gt; Channel State Management and Chain Observation&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Responsibility segregation:&lt;&#x2F;strong&gt; Channel Management, Chain and Channel Monitoring&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Info Aside:&lt;&#x2F;strong&gt; Observer Pattern&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;17:10pm - Refreshment Break, Chill and Chat&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;17:30pm - Inside Lightning: Chain Sourcing for LDK Nodes (Continued)&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;mc-eni-1&quot;&gt;MC: Eni&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chain Sourcing&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;The Listen Interface&lt;&#x2F;li&gt;
+&lt;li&gt;The Confirm&#x2F;Filter Interface Combination&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;10&#x2F;25&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Remember to contribute&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Saving Satoshi featured at TabConf &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;savingsatoshi.com&#x2F;&quot;&gt;Saving Satoshi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Warnet featured at TabConf&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;btrust-developer-day&#x2F;&quot;&gt;Btrust Africa Bitcoin Conference Dev Day, December 8th, 2024&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 9TH – 11TH, 2024 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #2</title>
+          <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-2/</link>
+          <guid>/socratic-seminar-2/</guid>
+          <description xml:base="/socratic-seminar-2/">&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt; by nully0x:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;16:00pm - Announcements&lt;&#x2F;p&gt;
+&lt;p&gt;We are excited to introduce our second &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;http:&#x2F;&#x2F;easepay.io&#x2F;&quot;&gt;Easepay&lt;&#x2F;a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hrf.org&#x2F;&quot;&gt;HRF&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;16:20pm - Wallet Recovery&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinbook&#x2F;bitcoinbook&#x2F;blob&#x2F;develop&#x2F;ch05_wallets.adoc&quot;&gt;Mastering Bitcoin Ch05&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;16:30pm - Bitcoin digital signature schemes:&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;mc-nully&quot;&gt;MC: nully&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitcoincoreorg&#x2F;status&#x2F;1818692229449306623?s=12&quot;&gt;Two new advisories have been added to Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0094.mediawiki&quot;&gt;The BIP94: Testnet 4 draft was merged to the BIPs repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;zawy-s-alternating-timestamp-attack&#x2F;1062&quot;&gt;New time warp vulnerability in testnet4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30454&quot;&gt;Bitcoin Core switch to CMake build system&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;jlopp.github.io&#x2F;metal-bitcoin-storage-reviews&#x2F;&quot;&gt;Metal Bitcoin Seed Storage Reviews&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;29891&quot;&gt;V28 Release Candidates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;bin&#x2F;bitcoin-core-28.0&#x2F;test.rc1&#x2F;&quot;&gt;V28 RC1 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28553&quot;&gt;AssumeUTXO on mainnet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;17:40pm - Refreshment Break, Chill and Chat&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;6:00pm - Ligthning network talk&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;mc-nully-1&quot;&gt;MC: nully&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bolt-12-trusted-contacts&#x2F;1046&quot;&gt;Bolt 12 Trusted Contacts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ShockBTC&#x2F;status&#x2F;1818385231705260318&quot;&gt;Shared Lightning Node on Nostr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;shocknet&#x2F;Lightning.Pub&quot;&gt;Nostr Native Lightning Node&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;03&#x2F;08&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevs.xyz&#x2F;good-first-issues&quot;&gt;Good First Issue&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.tbdex.io&#x2F;hackathon&quot;&gt;TBDex Hackathon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;savingsatoshi.com&#x2F;&quot;&gt;Saving Satoshi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 9TH – 11TH, 2024 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #1</title>
+          <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-1/</link>
+          <guid>/socratic-seminar-1/</guid>
+          <description xml:base="/socratic-seminar-1/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;16:00pm - Welcome to BitDevsAbuja&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Announcements&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;We are excited to introduce our first &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our sponsor &lt;a rel=&quot;external&quot; href=&quot;http:&#x2F;&#x2F;easepay.io&#x2F;&quot;&gt;Easepay&lt;&#x2F;a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;hrf.org&#x2F;&quot;&gt;HRF&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.bitdevsnbo.org&#x2F;about&quot;&gt;What is BitDevs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;House Rules - the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;16:20pm - Address Encoding: Base58, Bech32, Bech32m&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinbook&#x2F;bitcoinbook&#x2F;blob&#x2F;develop&#x2F;ch04.asciidoc&quot;&gt;Mastering Bitcoin Ch04&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Bitcoin&#x2F;comments&#x2F;62fydd&#x2F;pieter_wuille_lecture_on_new_bech32_address_format&#x2F;&quot;&gt;Pwuille, bech32 address format lecture&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;btctranscripts.com&#x2F;sf-bitcoin-meetup&#x2F;2017-03-29-new-address-type-for-segwit-addresses&#x2F;&quot;&gt;Transcripts on Segwit Addresses&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0350.mediawiki&quot;&gt;Bip 350, Applications of Bech32m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;16:30pm - Bitcoin digital signature schemes:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;andrea.corbellini.name&#x2F;2015&#x2F;05&#x2F;17&#x2F;elliptic-curve-cryptography-a-gentle-introduction&#x2F;&quot;&gt;ECDSA - a gentle introduction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0340.mediawiki&quot;&gt;Bip 340, Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wjACBRJDfxc&quot;&gt;Adam Gibson, How to design Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=n5aompcR9W0&quot;&gt;Rene Pickhardt, Schnorr Signatures for Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;17:40pm - Refreshment Break, Chill and Chat&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;17:55pm - Introduction to Fedimint Custody Protocol&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;fedimint.org&#x2F;docs&#x2F;intro&quot;&gt;Fedimint primer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&quot;&gt;Fedimint open source software&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.fedi.xyz&#x2F;&quot;&gt;Fedi! And other companies building on Fedimint&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;18:35pm - Designing a Bitcoin&#x2F;Lightning wallet&#x2F;Introduction to Bitcoin design philosophy&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.design&#x2F;&quot;&gt;Bitcoin design&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;03&#x2F;08&#x2F;&quot;&gt;Bitcoin Optech Newsletter Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&#x2F;&quot;&gt;Africa Bitcoin Conference, December 9TH – 11TH, 2024 &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b.tc&#x2F;conference&#x2F;&quot;&gt;Bitcoin Conferences&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Respetech&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;22 Fairtrade center, Bambari Crescent,
+Wuse, Abuja&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Fairtrade+Business+Complex&#x2F;@9.0511381,7.4543869,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x104e0b3e906637f7:0x23ff82ff3780bb80!8m2!3d9.0511381!4d7.4569618!16s%2Fg%2F1hm4tj24m?entry=ttu&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
